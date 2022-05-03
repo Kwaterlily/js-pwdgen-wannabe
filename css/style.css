@@ -1,0 +1,8 @@
+[class*="col-"], .col {
+    min-height: 100px;
+    border: solid 2px darkmagenta;
+}
+
+#mio_id {
+    background-color: rgb(255, 199, 255);
+}
